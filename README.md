@@ -11,8 +11,14 @@ DP 개념. (피보나치, subarray max)
 
 ㄴ dp_day1.ipynb
 
-2023 - 10 - 08 
+2023 - 10 - 09 
 
 DP 파스칼 삼각형
 
 ㄴ dp_day2.ipynb
+
+2023 - 10 - 10
+
+DP day 1, 2 복습
+
+ㄴ 오늘은 없네요
