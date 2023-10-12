@@ -31,3 +31,9 @@ DP day 1, 2 복습
 leetcode 121 maximum price [tabulation]
 
 ㄴ dp_day3.ipynb 
+
+2023 - 10 - 13
+
+leetcode 121 Is subsequence ? 
+
+ㄴ dp tag 에서 골라서 푼 건데, dp 인지 모르겠음. dp_day4.ipynb
