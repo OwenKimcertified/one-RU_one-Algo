@@ -37,3 +37,12 @@ leetcode 121 maximum price [tabulation]
 leetcode 121 Is subsequence ? 
 
 ㄴ dp tag 에서 골라서 푼 건데, dp 인지 모르겠음. dp_day4.ipynb
+
+
+# Greedy 
+
+나중에 미칠 영향은 고려하지 않고, 당장 좋은 것만 선택하는 그리디.
+
+point => "가장 큰 or 작은 순서대로", "최적의 해를 구하기 힘들 수 있다"
+
+2023 - 11 - 19 
