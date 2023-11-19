@@ -48,3 +48,7 @@ leetcode 121 Is subsequence ?
 point => "가장 큰 or 작은 순서대로", "최적의 해를 구하기 힘들 수 있다"
 ```
 2023 - 11 - 19 
+
+큰 수의 법칙 
+
+ㄴ greedy_day1.ipynb
