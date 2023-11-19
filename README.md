@@ -38,7 +38,7 @@ leetcode 121 maximum price [tabulation]
 
 leetcode 121 Is subsequence ? 
 
-ㄴ dp tag 에서 골라서 푼 건데, dp 인지 모르겠음. dp_day4.ipynb
+ㄴ dp tag 에서 골라서 풀었는데 dp인지 모르겠음. dp_day4.ipynb
 
 -------------------------------------------
 # Greedy 
