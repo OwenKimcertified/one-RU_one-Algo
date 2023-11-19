@@ -1,10 +1,10 @@
-# one-RU_one-Algo
+### one-RU_one-Algo
 1루 1알고리즘(완벽 숙지가 아니고, 공부한 것을 정리 언제 마스터할 지 모르겠음.) 
 
 문제 상황에 대한 해결책을 코드로 구현하는 것이 어려움.
 
 -------------------------------------------
-### Dynamic Programming
+# Dynamic Programming
   tabulation, bottom-up
 
 2023 - 10 - 08 
@@ -38,7 +38,7 @@ leetcode 121 Is subsequence ?
 ㄴ dp tag 에서 골라서 푼 건데, dp 인지 모르겠음. dp_day4.ipynb
 
 -------------------------------------------
-### Greedy 
+# Greedy 
 
 나중에 미칠 영향은 고려하지 않고, 당장 좋은 것만 선택하는 그리디.
 
