@@ -57,7 +57,7 @@ point => "가장 큰 or 작은 순서대로", "최적의 해를 구하기 힘들
 
 최단 거리 계산 
 
-개념 정리
+개념 정리(dp, greedy)
 
 leetcode 3sol
 
