@@ -73,6 +73,10 @@ leetcode 703
 
 # Array
 
-leetcode 27
+leetcode 27 
 
 ㄴ array_day1.ipynb
+
+leetcode 88 Merge and sort two list 
+
+ㄴ array_day2.ipynb
