@@ -66,10 +66,8 @@ leetcode 703
 leetcode 27 
 
 ㄴ array_day1.ipynb
-<<<<<<< HEAD
 
 leetcode 88 Merge and sort two list 
 
 ㄴ array_day2.ipynb
-=======
->>>>>>> f51d7cfc5eedb59ac94f234eb0ae51fef8f5de9b
+
