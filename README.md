@@ -3,10 +3,6 @@
 -------------------------------------------
 # Dynamic Programming
 
-```
-tabulation, bottom-up
-```
-
 2023 - 10 - 08 
 
 DP 개념. (피보나치, subarray max) [memoization, tabulation]
@@ -40,12 +36,6 @@ leetcode 121 Is subsequence ?
 -------------------------------------------
 
 # Greedy 
-```
-나중에 미칠 영향은 고려하지 않고, 당장 좋은 것만 선택하는 그리디.
-
-point => "가장 큰 or 작은 순서대로", "최적의 해를 구하기 힘들 수 있다"
-```
-2023 - 11 - 19 
 
 큰 수의 법칙 
 
@@ -76,7 +66,10 @@ leetcode 703
 leetcode 27 
 
 ㄴ array_day1.ipynb
+<<<<<<< HEAD
 
 leetcode 88 Merge and sort two list 
 
 ㄴ array_day2.ipynb
+=======
+>>>>>>> f51d7cfc5eedb59ac94f234eb0ae51fef8f5de9b
