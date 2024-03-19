@@ -87,3 +87,9 @@ leetcode 88 Merge Sort
 leetcode 141
 
 ㄴ LL_day1.ipynb 토끼와 거북이
+
+# Search
+
+leetcode 35
+
+ㄴ search_day1.ipynb O(log n) 으로(이진 탐색)
