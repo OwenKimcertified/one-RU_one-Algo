@@ -35,6 +35,10 @@ leetcode 121 maximum price [tabulation]
 
 leetcode 121 Is subsequence ? 
 
+2024 - 05 - 21
+
+프로그래머스 lv 1 정답률 60% 미만 주행
+
 ㄴ dp tag 에서 골라서 풀었는데 dp인지 모르겠음. dp_day4.ipynb
 
 -------------------------------------------
