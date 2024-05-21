@@ -93,3 +93,13 @@ leetcode 141
 leetcode 35
 
 ㄴ search_day1.ipynb O(log n) 으로(이진 탐색)
+
+# dfs, bfs
+
+개념
+
+# programers
+
+문제 모음 
+
+- 실패율 
